@@ -1,0 +1,14 @@
+/* h2{
+    color:rebeccapurple;
+    background-color:green;
+    text-transform:capitalize;
+    padding : 20px ;
+    } */
+/* 
+
+    @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;900&display=swap"); */
+.form-container{
+    justify-content: center;
+    display: grid;
+    color: rgb(255, 190, 201);
+}
